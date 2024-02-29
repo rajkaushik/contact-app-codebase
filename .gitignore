@@ -1,4 +1,2 @@
-/node_modules
+
 node_modules/
-contact-auth-service/node_modules/
-.env
